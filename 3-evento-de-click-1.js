@@ -1,0 +1,2 @@
+//Pelo HTML adicione um evento de click em um elemento “span” de conteúdo “Clique aqui”. Ao clicar, chame uma função que fará aparecer um alert escrito “Cliquei”.
+function eventoSpan() { alert("Cliquei"); }
